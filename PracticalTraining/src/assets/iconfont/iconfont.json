@@ -1,0 +1,65 @@
+{
+  "id": "3492049",
+  "name": "实训",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3377535",
+      "name": "登录日志",
+      "font_class": "drxx92",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "3740672",
+      "name": "心率",
+      "font_class": "xinshuai",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8222353",
+      "name": "心率",
+      "font_class": "xinshuai1",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "8222360",
+      "name": "血氧",
+      "font_class": "xieyang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11227078",
+      "name": "6-医疗-血氧",
+      "font_class": "-yiliao-xieyang",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "13374055",
+      "name": "血氧",
+      "font_class": "ziyuan",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "18369278",
+      "name": "心率手表",
+      "font_class": "xinshuaishoubiao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "24651199",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    }
+  ]
+}
